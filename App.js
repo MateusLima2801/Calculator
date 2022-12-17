@@ -1,7 +1,7 @@
 import React,{Component} from 'react'
-import { StyleSheet, Text, View, Platform} from 'react-native'
-import Button from './src/components/Button'
+import { StyleSheet, Text, View} from 'react-native'
 import Display from './src/components/Display'
+import Button from './src/components/Button'
 
 const initialState = {
   displayValue:'0',
